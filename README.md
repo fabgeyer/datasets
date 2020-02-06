@@ -23,3 +23,10 @@ This repository contains a list of dataset used in some of [my publications](htt
 - [Dataset](https://github.com/fabgeyer/dataset-networking2019)
 - [Code](https://github.com/fabgeyer/deepmpls)
 - [PDF](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/geyer2019networking.pdf)
+
+
+## On the Robustness of Deep Learning-predicted Contention Models for Network Calculus
+
+- arxiv:[1911.10522](https://arxiv.org/abs/1911.10522)
+- [Dataset](https://github.com/fabgeyer/dataset-deeptma-extension)
+- [PDF](https://arxiv.org/pdf/1911.10522)
