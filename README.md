@@ -1,6 +1,6 @@
 # Public datasets
 
-This repository contains a list of dataset used in some of [my publications](https://net.in.tum.de/~fgeyer).
+This repository contains a list of dataset used in some of [my publications](https://fabgeyer.github.io).
 
 
 ## The Case for a Network Calculus Heuristic: Using Insights from Data for Tighter Bounds
@@ -27,6 +27,14 @@ This repository contains a list of dataset used in some of [my publications](htt
 
 ## On the Robustness of Deep Learning-predicted Contention Models for Network Calculus
 
+- doi:[10.1109/ISCC50000.2020.9219693](https://dx.doi.org/10.1109/ISCC50000.2020.9219693)
 - arxiv:[1911.10522](https://arxiv.org/abs/1911.10522)
 - [Dataset](https://github.com/fabgeyer/dataset-deeptma-extension)
 - [PDF](https://arxiv.org/pdf/1911.10522)
+
+
+## Graph-based Deep Learning for Fast and Tight Network Calculus Analyses
+
+- doi:[10.1109/TNSE.2020.3025806](https://dx.doi.org/10.1109/TNSE.2020.3025806)
+- [Dataset](https://github.com/fabgeyer/dataset-deeptma-extension)
+- [PDF](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/geyer2020tnse-preprint.pdf)
