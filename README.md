@@ -6,6 +6,7 @@ For the full list, refer to [the following page](https://fabgeyer.github.io/data
 ## 2021
 ### Tightening Network Calculus Delay Bounds by Predicting Flow Prolongations in the FIFO Analysis
 
+- doi:[10.1109/RTAS52030.2021.00021](https://dx.doi.org/10.1109/RTAS52030.2021.00021)
 - [Dataset](https://github.com/fabgeyer/dataset-rtas2021)
 - [PDF](https://www.net.in.tum.de/fileadmin/bibtex/publications/papers/geyer2021rtas.pdf)
 
